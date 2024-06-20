@@ -5,19 +5,19 @@
 
 
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+
+
+[User Friendly][uer]][user-url]
+
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
-<!-- PROJECT LOGO -->
+
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/erenyeager101">
     <img src="Wellness logo.jpeg" alt="Logo" width="80" height="80">
   </a>
 
@@ -26,7 +26,7 @@
   <p align="center">
     Ultimate Hospital Portal!
     <br />
-    <a href="https://github.com/erenyeager101/Wellness_LinkHub/master"><strong>Explore the Project »</strong></a>
+    <a href="https://github.com/erenyeager101/Wellness_LinkHub/tree/master"><strong>Explore the Project »</strong></a>
     <br />
     <br />
     <a href="https://github.com/erenyeager101">visit my profile</a>
@@ -39,7 +39,7 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -67,10 +67,10 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 
 Wellness-LinkHub is a comprehensive hospital management website designed to streamline and enhance the management of hospital operations, patient care, and administrative processes. The platform aims to integrate all essential functionalities into a single, user-friendly interface.
 
@@ -83,20 +83,18 @@ Feel free to suggest changes by forking this repo and creating a pull request or
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This section should list any major frameworks/libraries used to bootstrap our project. 
 
-* [![Next][Next.js]][Next-url]
+
 * [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
+ * [![Django][Django.Dj]][Django-url]
+
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
@@ -240,11 +238,12 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/er
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-url]: https://github.com/erenyeager101/Wellness_LinkHub/tree/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://linkedin.com
+[user]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Django.Dj]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
